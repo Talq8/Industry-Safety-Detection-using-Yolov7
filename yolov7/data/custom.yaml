@@ -1,0 +1,6 @@
+train: D:\\Users\\User\\Desktop\\inouren_projects\\Industry-Safety-Detection-using-Yolov7\\train.txt
+val: D:\\Users\\User\\Desktop\\inouren_projects\\Industry-Safety-Detection-using-Yolov7\\val.txt
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
+
