@@ -134,3 +134,6 @@ python app.py
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = yolov7app
+
+
+	## some command required to run GPU also to upgrade docker and , to install AWS CLI for code spaces usage
